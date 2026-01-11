@@ -1,4 +1,3 @@
-
 /**
  * EduGrade Pro - Backend (Google Apps Script)
  */
